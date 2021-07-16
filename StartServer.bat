@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.0EA\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Unreal Projects\MyFirstProject\MyFirstProject.uproject" -server -log
